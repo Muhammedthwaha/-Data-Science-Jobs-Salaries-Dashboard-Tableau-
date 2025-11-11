@@ -18,16 +18,19 @@ The dashboard enables users to quickly explore global trends and gain insights i
 📌 1. Average Salary by Experience Level & Employment Type
 
 Full-time vs. part-time salary comparisons
+
 Entry-level, mid-level, senior, and expert salary ranges
 
 📌 2. Total Companies by Size & Location
 
 Company size distribution: small, medium, large
+
 Understanding which types of companies dominate data job markets
 
 📌 3. Average Salary by Country (World Map)
 
 Geographic visualization of salary differences
+
 Highlights countries with the highest and lowest compensation
 
 📌 4. Top 10 Employee Residences
@@ -45,12 +48,19 @@ Full-time, part-time, freelance share
 📌 7. Salary by Job Title & Experience Level
 
 Detailed salary breakdown for roles like:
+
 Data Analyst
+
 Data Scientist
+
 Machine Learning Engineer
+
 AI Scientist
+
 BI Analyst
+
 Data Engineer
+
 and more…
 
 📂 Project Files Included
