@@ -4,7 +4,7 @@
 👉 View on Tableau Public:
 https://public.tableau.com/views/Portfolio_project_1DataScienceJobssalariesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Dashboard Preview](./Dashboard 1.png)
+![Dashboard Preview](https://github.com/Muhammedthwaha/-Data-Science-Jobs-Salaries-Dashboard-Tableau-/blob/main/Dashboard%201.png)
 
 
 📘 Overview
