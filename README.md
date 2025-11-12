@@ -4,6 +4,9 @@
 👉 View on Tableau Public:
 https://public.tableau.com/views/Portfolio_project_1DataScienceJobssalariesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![Dashboard Preview](./Dashboard 1.png)
+
+
 📘 Overview
 
 This project presents a comprehensive Tableau dashboard analyzing salaries across various roles in the Data Science & Analytics industry.
